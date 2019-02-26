@@ -30,7 +30,7 @@ def calcular_iva_envio(kilometros, tasa):
     pass
 
 
-def calcular_iva_servicio_fuera(cantidad_horas, tasa):
+def calcular_iva_servicio_extra(cantidad_horas, tasa):
     pass
 
 
